@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/alvaro.allper.1/OneDrive - Educacyl/Documentos/NetBeansProjects/Aplicacion/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/alvaro.allper.1/OneDrive - Educacyl/Documentos/NetBeansProjects/Aplicacion/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Aplicacion 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Aplicacion 1.0-SNAPSHOT API'
+es.sauces.aplicacion
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\src\main\java = 1730203416547
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\allclasses-index.html = 1732008441123
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\allpackages-index.html = 1732008441125
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\copy.svg = 1732008441174
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\element-list = 1732008441073
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\help-doc.html = 1732008441160
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\index-all.html = 1732008441153
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\index.html = 1732008441156
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\link.svg = 1732008441175
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\member-search-index.js = 1732008441132
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\module-search-index.js = 1732008441130
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\overview-tree.html = 1732008441109
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\package-search-index.js = 1732008441131
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\script.js = 1732008441165
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\search-page.js = 1732008441179
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\search.html = 1732008441155
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\search.js = 1732008441177
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\stylesheet.css = 1732008441164
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\tag-search-index.js = 1732008441143
+C:\Users\alvaro.allper.1\OneDrive - Educacyl\Documentos\NetBeansProjects\Aplicacion\target\reports\apidocs\type-search-index.js = 1732008441131

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"es.sauces.aplicacion","l":"Agenda"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"es.sauces.aplicacion","l":"AplicacionAgenda"},{"p":"es.sauces.aplicacion","l":"Contacto"}];updateSearchResults();
