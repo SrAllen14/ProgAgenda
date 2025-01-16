@@ -65,7 +65,6 @@ public class Agenda {
             contacto=null;
             contactoEliminado=true;
         }
-        System.out.println("Prepucio");
         return contactoEliminado;
     }
 }
